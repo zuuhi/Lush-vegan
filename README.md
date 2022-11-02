@@ -1,1 +1,1 @@
-# Lush-vegan
+# lush-vegan
